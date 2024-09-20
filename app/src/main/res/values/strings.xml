@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="next_button" >Siguiente</string>
+    <string name="prev_button" >Anterior</string>
+    <string name="pregunta_cielo">El cielo es rojo?</string>
+    <string name="pregunta_subiarri">Se puede bajar hacia arriba?</string>
+    <string name="pregunta_murcielago">El murcielago es ciego?</string>
+    <string name="pregunta_TF">Cybertron es un Transformer?</string>
+    <string name="pregunta_DB">Vegetta se sabe la cancion de "la gata bajo la lluvia"?</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
